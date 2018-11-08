@@ -39,12 +39,13 @@ Thumbs.db
 
 # Unity Temp #
 ######################
-Ll]ibrary/
+[Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+*.info
 
 # Visual Studio cache directory
 .vs/
